@@ -1,7 +1,7 @@
 {
   "name": "hypercore-video-segmenter",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Store live streaming video segments using hypercore.",
   "main": "index.js",
   "dependencies": {
     "choppa": "^1.0.2",
