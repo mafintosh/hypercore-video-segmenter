@@ -1,0 +1,29 @@
+{
+  "name": "hypercore-video-segmenter",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {
+    "choppa": "^1.0.2",
+    "from2": "^2.3.0",
+    "protocol-buffers": "^3.1.8",
+    "stream-collector": "^1.0.1",
+    "thunky": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^8.5.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/hypercore-video-segmenter.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/hypercore-video-segmenter/issues"
+  },
+  "homepage": "https://github.com/mafintosh/hypercore-video-segmenter"
+}
